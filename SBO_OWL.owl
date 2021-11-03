@@ -2131,6 +2131,9 @@ symbol: DeltaS</rdfs:comment>
   <owl:Class rdf:about="SBO_0000693">
     <rdfs:comment>Modelling approach which captures bounds on the possible behavior of a system, which may be further reduced using an objective function.</rdfs:comment>
     <rdfs:label>constraint-based framework</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="SBO_0000004"/>
+    </rdfs:subClassOf>
   </owl:Class>
   <owl:Class rdf:about="SBO_0000681">
     <rdfs:subClassOf>
@@ -2735,6 +2738,9 @@ mole of substance reacts completely, under standard conditions (1 bar). For aque
   <owl:Class rdf:about="SBO_0000692">
     <rdfs:comment>Modeling approach where the flow of resources (flux) through a network can be calculated. This approach will generally produce a set of solutions (solution space), which may be reduced using objective functions and constraints on individual fluxes.</rdfs:comment>
     <rdfs:label>resource balance framework</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="SBO_0000693"/>
+    </rdfs:subClassOf>
   </owl:Class>
   <owl:Class rdf:about="SBO_0000570">
     <rdfs:subClassOf>
@@ -7801,6 +7807,9 @@ CHEBI:36080</rdfs:comment>
     <rdfs:subClassOf rdf:resource="SBO_0000004"/>
     <rdfs:comment>Modelling approach, typically used for metabolic models, where the flow of metabolites (flux) through a network can be calculated. This approach will generally produce a set of solutions (solution space), which may be reduced using objective functions and constraints on individual fluxes.</rdfs:comment>
     <rdfs:label>flux balance framework</rdfs:label>
+    <rdfs:subClassOf>
+      <owl:Class rdf:about="SBO_0000693"/>
+    </rdfs:subClassOf>
   </owl:Class>
   <owl:Class rdf:about="SBO_0000612">
     <rdfs:subClassOf rdf:resource="SBO_0000613"/>
