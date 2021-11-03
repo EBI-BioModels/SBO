@@ -7804,7 +7804,6 @@ CHEBI:36080</rdfs:comment>
     <rdfs:label>allosteric activator</rdfs:label>
   </owl:Class>
   <owl:Class rdf:about="SBO_0000624">
-    <rdfs:subClassOf rdf:resource="SBO_0000004"/>
     <rdfs:comment>Modelling approach, typically used for metabolic models, where the flow of metabolites (flux) through a network can be calculated. This approach will generally produce a set of solutions (solution space), which may be reduced using objective functions and constraints on individual fluxes.</rdfs:comment>
     <rdfs:label>flux balance framework</rdfs:label>
     <rdfs:subClassOf>
