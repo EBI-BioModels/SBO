@@ -1,4 +1,7 @@
 # SBO: Systems Biology Ontology
+
 The Systems Biology Ontology is a set of controlled, relational vocabularies of terms commonly used in Systems Biology, and in particular in computational modeling. The ontology consists of six orthogonal vocabularies defining: the roles of reaction participants (eg. “substrate”), quantitative parameters (eg. “Michaelis constant”), a precise classification of mathematical expressions that describe the system (eg. “mass action rate law”), the modeling framework used (eg. “logical framework”), and a branch each to describe entity (eg. “macromolecule”) and interaction (eg. “process”) types. SBO terms can be used to introduce a layer of semantic information into the standard description of a model, or to annotate the results of biochemical experiments in order to facilitate their efficient reuse. SBO is an Open Biomedical Ontologies (OBO) candidate ontology, and is free for use. SBO is a project of the BioModels.net effort and is developed through community collaboration.
-SBO terms can be browsed through the Ontology Lookup Service (OLS) webpage https://www.ebi.ac.uk/ols/ontologies/sbo.  Follow the documentation at https://www.ebi.ac.uk/ols/docs/api  to use API to access OLS web services for SBO.
-Please use Git-Hub issue-tracker (https://github.com/EBI-BioModels/SBO/issues) to request addition of new terms to SBO.
+
+SBO terms can be browsed through the Ontology Lookup Service (OLS) webpage [https://www.ebi.ac.uk/ols/ontologies/sbo](https://www.ebi.ac.uk/ols/ontologies/sbo).  Follow the documentation at [https://www.ebi.ac.uk/ols/docs/api](https://www.ebi.ac.uk/ols/docs/api)  to use API to access OLS web services for SBO.
+
+Please use Git-Hub issue-tracker [https://github.com/EBI-BioModels/SBO/issues](https://github.com/EBI-BioModels/SBO/issues) to request addition of new terms to SBO.
