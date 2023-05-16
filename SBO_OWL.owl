@@ -3756,7 +3756,7 @@ reaction involving three reactants. This parameter encompasses all the contribut
 
     <owl:Class rdf:about="http://biomodels.net/SBO/SBO_0000178">
         <rdfs:subClassOf rdf:resource="http://biomodels.net/SBO/SBO_0000182"/>
-        <rdfs:comment>Rupture of a covalent bond resulting in the conversion of one physical entity into several physical entities.</rdfs:comment>
+        <rdfs:comment>Rupture of a covalent bond resulting in the conversion of one physical entity into several physical entities or into a physical entity of a different topological class.</rdfs:comment>
         <rdfs:label>cleavage</rdfs:label>
     </owl:Class>
     
