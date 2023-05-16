@@ -4371,6 +4371,12 @@ name: Modelling approach for finding the optimal state of a system.
 name: optimization framework
 is_a: SBO:0000693 ! constraint-based framework
 
+[Term]
+id: SBO:0000695
+name: ligation
+comment: Formation of a covalent bond resulting in the creation of a link between the ends of one or more linear polymer molecules.
+is_a: SBO:0000182 ! conversion
+
 [Typedef]
 id: part:of
 name: part of
