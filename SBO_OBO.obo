@@ -4367,8 +4367,8 @@ is_a: SBO:0000004 ! modelling framework
 
 [Term]
 id: SBO:0000694
-name: Modelling approach for finding the optimal state of a system.
 name: optimization framework
+comment: Modelling approach for finding the optimal state of a system.
 is_a: SBO:0000693 ! constraint-based framework
 
 [Term]
