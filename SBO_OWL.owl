@@ -13390,7 +13390,7 @@ process depending on the context in which it occurs. For example, the observed e
 
     <owl:Class rdf:about="http://biomodels.net/SBO/SBO_0000694">
         <rdfs:subClassOf rdf:resource="http://biomodels.net/SBO/SBO_0000693"/>
-        <rdfs:label xml:lang="en">Modelling approach for finding the optimal state of a system.</rdfs:label>
+        <rdfs:comment xml:lang="en">Modelling approach for finding the optimal state of a system.</rdfs:comment>
         <rdfs:label xml:lang="en">optimization framework</rdfs:label>
     </owl:Class>
     
