@@ -13393,6 +13393,14 @@ process depending on the context in which it occurs. For example, the observed e
         <rdfs:label xml:lang="en">Modelling approach for finding the optimal state of a system.</rdfs:label>
         <rdfs:label xml:lang="en">optimization framework</rdfs:label>
     </owl:Class>
+    
+    <!-- http://biomodels.net/SBO/SBO_0000695 -->
+
+    <owl:Class rdf:about="http://biomodels.net/SBO/SBO_0000695">
+        <rdfs:subClassOf rdf:resource="http://biomodels.net/SBO/SBO_0000182"/>
+        <rdfs:comment xml:lang="en">Formation of a covalent bond resulting in the creation of a link between the ends of one or more linear polymer molecules.</rdfs:comment>
+        <rdfs:label xml:lang="en">ligation</rdfs:label>
+    </owl:Class>
 </rdf:RDF>
 
 
